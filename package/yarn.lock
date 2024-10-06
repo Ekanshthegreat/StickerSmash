@@ -7004,6 +7004,11 @@ react-native-builder-bob@^0.23.2:
     which "^2.0.2"
     yargs "^17.5.1"
 
+react-native-fast-tflite@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-fast-tflite/-/react-native-fast-tflite-1.4.0.tgz#68cc66edcdd0bfc77ce9a3073ff398668e22f16f"
+  integrity sha512-T2Da+VHRK5U8I0FfNASv91LbkAwIRo8JlSBZO4l0Aw9sm91Sm2FlCqthmIOxvg6mdMkSpyhtDEJnSOhUeq/MqQ==
+
 react-native-reanimated@^3.12.0:
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-3.12.0.tgz#2c768d43971bb19e425c436c892bf68c74b9ccab"
