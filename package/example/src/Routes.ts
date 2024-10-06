@@ -1,5 +1,6 @@
 export type Routes = {
   PermissionsPage: undefined
+  LandingPage: undefined;
   CameraPage: undefined
   CodeScannerPage: undefined
   MediaPage: {
